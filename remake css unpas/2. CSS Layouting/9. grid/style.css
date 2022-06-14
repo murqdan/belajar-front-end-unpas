@@ -1,0 +1,53 @@
+/* 
+CSS Grid Terminology:
+1. Grid container
+2. Grid item
+3. Grid line
+4. Grid cell
+5. Grid area
+6. Grid track
+7. Grid gap
+*/
+
+/* 
+CSS Properties
+A. Container
+
+(columns & rows)
+1. grid-template-columns
+2. grid-template-rows
+3. grid-auto-columns
+4. grid-auto-rows
+5. grid-auto-flow
+tambahan: repeat(), min-content & max-content, auto-fit, minmax()
+
+(grid area & grid gap)
+6. grid-template-areas
+7. grid-template
+8. grid-column-gap
+9. grid-row-gap
+10. grid-gap
+11. grid
+
+(grid alignment)
+12. justify-items
+13. align-items
+14. place-items
+15. justify-content
+16. align-content
+17. place-content
+
+B. Items
+
+(grid item properties)
+1. grid-column-start
+2. grid-column-end
+3. grid-row-start
+4. grid-row-end
+5. grid-column
+6. grid-row
+7. grid-area
+8. justify-self
+9. a  lign-self
+10. place-self
+*/

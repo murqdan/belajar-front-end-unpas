@@ -1,0 +1,6 @@
+div {
+  width: 1000px;
+  height: 400px;
+  margin: 130px auto;
+  background: radial-gradient(white, black);
+}

@@ -1,0 +1,11 @@
+div {
+  width: 1000px;
+  height: 400px;
+  margin: 130px auto;
+  background: linear-gradient(
+    /*45deg*/ to bottom right,
+    red 30%,
+    orange 30%,
+    yellow 40%
+  );
+}

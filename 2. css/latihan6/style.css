@@ -1,0 +1,60 @@
+h3 {
+  text-align: center;
+}
+
+.hello:link {
+  color: orange;
+}
+
+.hello:hover {
+  color: black;
+  font-family: arial;
+  font-size: 20px;
+}
+
+.hello:active {
+  font-style: italic;
+}
+
+.hello:visited {
+  color: red;
+}
+
+li:first-child a {
+  color: green;
+}
+
+li:last-child a {
+  color: green;
+}
+
+li:nth-child(5n) a {
+  color: green;
+}
+
+li:nth-child(5n + 1) a {
+  color: green;
+}
+
+li:nth-child(even) a {
+  /*GENAP*/
+  color: green;
+}
+
+li:nth-child(odd) a {
+  /*GANJIL*/
+  color: green;
+}
+
+li:nth-child(even) a:hover {
+  /*GENAP*/
+  color: red;
+}
+
+p:first-of-type {
+  color: geen;
+}
+
+p:last-of-type {
+  color: red;
+}

@@ -1,0 +1,18 @@
+h1 {
+  color: white;
+}
+
+p {
+  color: white;
+}
+
+body {
+  background-color: black;
+  background-image: url(aaaaaab.jpg);
+  background-repeat: no-repeat;
+  background-position: bottom center;
+}
+
+/* body {
+  background: black url(aaaaaab.jpg) no-repeat bottom center;
+} */

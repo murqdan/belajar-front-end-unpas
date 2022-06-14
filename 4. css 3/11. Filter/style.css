@@ -1,0 +1,21 @@
+body {
+  text-align: center;
+}
+
+img {
+  margin: 50px auto;
+  filter: blur(5px);
+
+  /* Filters
+  blur(px)
+  brightness(angka | %)
+  contrast(angka | %)
+  saturaste(angka | %)
+  grayscale(angka | %)
+  sepia(angka | %)
+  hue-rotate(deg)
+  invert(angka | %)
+  opacity(angka | %)
+  drop-shadow(sama seperti box-shadow)
+  */
+}

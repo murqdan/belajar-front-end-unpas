@@ -1,0 +1,44 @@
+.container {
+  width: 800px;
+  margin: auto;
+  border: 2px solid black;
+  padding: 5px;
+}
+
+.kiri {
+  width: 200px;
+  height: 400px;
+  background-color: tomato;
+  float: left;
+}
+
+.tengah {
+  width: 400px;
+  height: 400px;
+  background-color: turquoise;
+  float: left;
+}
+
+.kanan {
+  width: 200px;
+  height: 400px;
+  background-color: blueviolet;
+  float: left;
+}
+
+/*A new micro clearfix hack*/
+.cf:before,
+.cf:after {
+  content: " ";
+  /* 1 */
+  display: table;
+  /* 2 */
+}
+
+.cf:after {
+  clear: both;
+}
+
+.cf {
+  *zoom: 1;
+}

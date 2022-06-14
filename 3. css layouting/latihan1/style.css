@@ -1,0 +1,33 @@
+a {
+  background-color: pink;
+  width: 200px;
+  height: 200px;
+  display: inline-block;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+}
+
+h1,
+h2,
+p {
+  background-color: green;
+}
+
+.main {
+  background-color: yellow;
+}
+
+.main h2 {
+  background-color: red;
+}
+
+img {
+  display: none;
+}
+
+.navigasi li {
+  display: inline;
+}

@@ -1,0 +1,17 @@
+h1 {
+  text-align: center;
+  font-size: 150px;
+  color: #f01432;
+  text-decoration: line-through;
+}
+
+p {
+  text-indent: 40px;
+  text-transform: capitalize;
+  letter-spacing: 3px;
+  word-spacing: 2px;
+}
+
+a {
+  text-decoration: underline;
+}

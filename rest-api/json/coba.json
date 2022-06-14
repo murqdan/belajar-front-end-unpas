@@ -1,0 +1,30 @@
+[
+    {
+        "nama": "Muhammad Rafiqul",
+        "umur": 30,
+        "nim": 19111234,
+        "lulus": true,
+        "hobi": [
+            "mgodonf",
+            "ngaji"
+        ],
+        "pembimbing": {
+            "pembimbing1": "Ferian",
+            "pembimbing2": "Petra"
+        }
+    },
+    {
+        "nama": "Muhammad Shidqi",
+        "umur": 30,
+        "nim": 19111235,
+        "lulus": true,
+        "hobi": [
+            "mgodonf",
+            "ngaji"
+        ],
+        "pembimbing": {
+            "pembimbing1": "Agus",
+            "pembimbing2": "Azka"
+        }
+    }
+]
